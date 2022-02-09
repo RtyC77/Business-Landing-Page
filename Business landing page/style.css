@@ -1,0 +1,33 @@
+#principal{
+    margin: auto;
+    width: 70%;
+}
+
+#conteudo{
+    width: 95%;
+    margin: 5%;
+}
+
+#icone{
+    text-align: center;
+    width: 50%;
+}
+
+#textodireita{
+    margin: 5%;
+    width: 30%;
+}
+#conteudoesquerda{
+    margin: 5%;
+    width: 75%;
+}
+.pesquerda{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 75%;
+}
+
+#conteudodireita{
+    padding: 5%;
+    width: 25%;
+}
